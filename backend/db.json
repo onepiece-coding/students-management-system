@@ -1,0 +1,21 @@
+{
+  "users": [
+    {
+      "email": "mohammed@gmail.com",
+      "password": "$2a$10$78WJ5NvTQjJjugB9qgxBbuUx.3ITAmDzMm03yYd9H08coTxNJJMUm",
+      "firstName": "Mohammed",
+      "lastName": "Alhiane",
+      "id": 1
+    }
+  ],
+  "students": [
+    {
+      "firstName": "Lahcen",
+      "lastName": "Alhiane",
+      "email": "alhiane@gmail.com",
+      "reference": "D12345678",
+      "userId": 1,
+      "id": 1
+    }
+  ]
+}
