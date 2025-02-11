@@ -1,4 +1,4 @@
-# Students Management System
+# Students Management System App using React, React Router Dom, TypeScript, and Redux Toolkit
 
 ![App Screenshot](https://github.com/onepiece-coding/students-management-system/blob/main/screenshots/screenshot-01.png)
 ![App Screenshot](https://github.com/onepiece-coding/students-management-system/blob/main/screenshots/screenshot-02.png)
